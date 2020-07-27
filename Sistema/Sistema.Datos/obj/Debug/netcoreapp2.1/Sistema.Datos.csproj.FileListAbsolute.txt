@@ -1,0 +1,40 @@
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb

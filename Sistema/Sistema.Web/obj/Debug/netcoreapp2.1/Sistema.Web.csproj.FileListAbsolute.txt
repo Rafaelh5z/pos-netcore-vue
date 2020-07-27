@@ -1,0 +1,61 @@
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+D:\Programming Files\Courses\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\rafae\Desktop\ASP.Net Core\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
